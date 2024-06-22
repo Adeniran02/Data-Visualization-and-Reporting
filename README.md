@@ -1,5 +1,4 @@
 # Data-Visualization-and-Reporting
-Presenting Data visually to the audience through reports and dashboards
 
 Hello Friends, 
 I recently completed a final project for my Data Architecture course. The project focused on utilizing Power BI for data transformation, analytics, and visualization. With my previous experience using this tool to uncover insights in my earlier career, I thoroughly enjoyed working on this project.
